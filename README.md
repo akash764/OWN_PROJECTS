@@ -12,7 +12,7 @@ This is my first project while learning HTML.
 
 ## How to Run
 
-1. Open `Song.html` in any web browser.
+1. Open `https://akash764.github.io/OWN_PROJECTS/` in any web browser.
 
 ## What I Practiced
 
